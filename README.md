@@ -4,6 +4,7 @@
 
 **Introduction:**
 Intracardiac electrophysiology (EP) mapping and ablation is a cornerstone of modern cardiology, providing a precise and minimally invasive approach to diagnose and treat cardiac arrhythmias. These procedures rely on sophisticated catheter-based systems that navigate the heart's chambers, meticulously recording electrical signals (mapping) and delivering targeted energy to ablate (destroy) tissue responsible for abnormal rhythms. The "real-time" aspect of EP is paramount, as clinicians must continuously monitor the heart's dynamic electrical activity, catheter position, and the effects of ablation to ensure safety, efficacy, and optimal patient outcomes. The integrity of transmission lines within these complex systems is a silent but critical enabler of this real-time performance.
+![image](https://github.com/user-attachments/assets/a31ab7e9-ca4a-4deb-a918-151d76f265e5)
 
 **Fundamentals of Intracardiac EP Mapping and Ablation:**
 
@@ -59,6 +60,7 @@ Further Miniaturization: The drive for less invasive procedures will push the li
 Multi-Modal Catheters: Integrating even more sensing capabilities (e.g., ultrasound, optical coherence tomography, blood flow) into a single catheter will require sophisticated, multi-purpose transmission line architectures.
 Wireless Catheters (Limited Range): While true wireless catheters (using antennas to radiate signals) are still largely experimental due to power and data rate challenges, short-range wireless or inductive power/data transfer within the catheter or between the catheter and a nearby external receiver could become more prevalent, requiring specialized transmission lines to interface with these miniature wireless modules.
 AI and Machine Learning Integration: Real-time data from advanced mapping catheters, transmitted reliably via their internal transmission lines, will feed into AI algorithms to provide predictive insights, automated lesion assessment, and optimized ablation strategies, further enhancing real-time decision-making for electrophysiologists.
+![image](https://github.com/user-attachments/assets/6fc5ea65-3056-4750-b161-d6786afcef11)
 
 **Conclusion:**
 
