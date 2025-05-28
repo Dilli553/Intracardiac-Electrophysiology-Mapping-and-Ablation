@@ -6,8 +6,6 @@
 
 **QR CODE**
 ![image](https://github.com/user-attachments/assets/196c085d-9ed3-4b2e-9c0d-0f8bbb1e92ef)
-
-
 # Intracardiac-Electrophysiology-Mapping-and-Ablation
 ..
 **Intracardiac Electrophysiology Mapping and Ablation: A Comprehensive Report on Real-Time Applications and Transmission Line Advancements**
